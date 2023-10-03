@@ -5,9 +5,12 @@
 
 ## 💪 
 <span > 
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=%23ffffff" />
+  <img src="https://img.shields.io/badge/Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=%23ffffff" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=%23ffffff" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=%23ffffff" />
   <img src="https://img.shields.io/badge/RocketMQ-1878c2?style=flat-square&logo=apacherocketmq&logoColor=%23ffffff" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=%23ffffff" />
   <img src="https://img.shields.io/badge/Spring-brightgreen?style=flat-square&logo=spring&logoColor=%23e4f7e2" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=%23ffffff" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=%23ffffff" />
@@ -25,18 +28,20 @@
 ## 📦 My Skill Set 
 
 ### 📚 Languages and Frameworks
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
+
 <code><img height="20" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" title="HTML"></code>
-<code><img height="20" src="https://img.icons8.com/dusk/64/000000/css3.png" alt="CSS" title="CSS"></code>
-<code><img height="20" src="https://img.icons8.com/dusk/64/000000/javascript-logo.png" alt="Javascript" title="Javascript"></code>
+<code><img height="20" src="https://img.icons8.com/color/35/000000/c-plus-plus-logo.png" alt="C++" title="C++"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" title="Java"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="spring-boot" title="spring-boot"></code>
-<code><img height="20" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-shadow-tal-revivo.png" alt="Rust" title="Rust"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/golang.png" alt="Golang" title="Golang"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="Spring-boot" title="Spring-boot"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" title="MySQL"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="Redis" title="Redis"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" title="MongoDB"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/elasticsearch/elasticsearch.png" alt="ElasticSearch" title="ElasticSearch"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" title="NodeJS"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue" title="Vue"></code>
+<code><img height="20" src="https://img.icons8.com/plasticine/48/000000/react.png" alt="React" title="React"></code>
 
 
 ### 🧰 Tools and Environments
@@ -48,9 +53,12 @@
   <code><img height="20" src="https://resources.jetbrains.com/storage/products/goland/img/meta/goland_logo_300x300.png" title="Goland" alt="Goland"></code>
   <code><img height="20" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" alt="WebStorm" title="WebStorm"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" alt="Terminal" title="Terminal"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="Docker" title="Docker"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter" title="Jupyter"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" alt="Maven" title="Maven"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/gradle/gradle.png" alt="Gradle" title="Gradle"></code>
 
   </td>
 
