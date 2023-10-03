@@ -1,7 +1,19 @@
+<div align="center">
+
 # Hi, I am Salvatore, a student from University of Science and Technology of China.
 
 ## 🤺 About Me
 
+  <!-- knock code pictures 敲代码的图片 -->
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+  <!-- profile logo 个人资料徽标 -->
+  <div align="center">
+    <a href="SalvatoreYang.github.io/docs//"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="https://space.bilibili.com/25989625"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/Salvatore/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <!-- visitor statistics logo 访问量统计徽标 -->
+    <img src="https://komarev.com/ghpvc/?username=SalvatoreYang&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  </div>
 
 ## 💪 
 <span > 
@@ -75,25 +87,40 @@
 
 ## 🍔 I’m planing to learn
 
+😋 6.824Lab
 
-
-
+😜 System Programing in C
 
 
 ## 📊 Code Statics 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EinheitYzm&show_icons=true&theme=gruvbox)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EinheitYzm&theme=gruvbox&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SalvatoreYang&show_icons=true&theme=gruvbox)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalvatoreYang&theme=gruvbox&layout=compact)
 
 
 
 ## 🎉 Github Profile Trophy
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=EinheitYzm" /> </div>
 
+<img src="https://github-profile-trophy.vercel.app/?username=SalvatoreYang&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
+
+<!-- Wakatime Graph-->
+<table>
+  <tr>
+    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
+  </tr>
+  <tr>
+    <td colspan="2"><br></td>
+  </tr>
+</table>
+
+<!-- Joke 笑话 -->
+<div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
 
 ## 💬 Ask me about
 
 
+</div>
 <!--
 **EinheitYzm/EinheitYzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
