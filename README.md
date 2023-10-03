@@ -4,6 +4,18 @@
 
 ## 🤺 About Me
 
+<div align="left">
+  
+### 🤡 Brief Introduction
+
+- 🏫 I’m currently a master student on **<a href="https://www.pku.edu.cn/">USTC</a>**, majoring in **Software Engineering**
+- 💻 I’m currently interning at **Red Book(Xiaohongshu)**, working on the development of an integrated machine learning platform.
+- 🌱 I am skilled in **back-end** developing with **Java**, proficiency using **MySQL, Redis and MQ(RocketMQ)** in practical application
+- 🧠 I play much interests in **Distributed System**, contact me about anything related this field.
+- 🔍 You can get in touch with me by email at [yzming@ustc.edu](mailto:yzming@ustc.edu)
+
+</div>
+
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
   <!-- profile logo 个人资料徽标 -->
@@ -15,7 +27,9 @@
     <img src="https://komarev.com/ghpvc/?username=SalvatoreYang&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 
-## 💪 
+## 💪 Skilled in
+
+
 <span > 
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=%23ffffff" />
   <img src="https://img.shields.io/badge/Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=%23ffffff" />
@@ -117,10 +131,9 @@
 <!-- Joke 笑话 -->
 <div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
 
-## 💬 Ask me about
-
-
 </div>
+
+
 <!--
 **EinheitYzm/EinheitYzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
