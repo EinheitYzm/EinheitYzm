@@ -26,12 +26,12 @@
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=SalvatoreYang&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
-  <div align="center">
-    <img src="https://github.com/heartyang520/HeartYang.github.io/raw/main/share/Vlog_c.gif?raw=true" />
-  </div>  
 
+<div align="left">
+  
+### 💪 Technology Stack
 
-## 💪 Technology Stack
+</div>
 
 <table>
   <tr>
@@ -113,9 +113,9 @@
   <tr>
   <td valign="top" width="33%">
 
-## 📦 My Skill Set 
+### 📦 My Skill Set 
 
-### 📚 Languages and Frameworks
+#### 📚 Languages and Frameworks
 
 <code><img height="20" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C"></code>
 <code><img height="20" src="https://img.icons8.com/color/35/000000/c-plus-plus-logo.png" alt="C++" title="C++"></code>
@@ -132,7 +132,7 @@
 <code><img height="20" src="https://img.icons8.com/plasticine/48/000000/react.png" alt="React" title="React"></code>
 
 
-### 🧰 Tools and Environments
+#### 🧰 Tools and Environments
 
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" title="Github"></code>
@@ -159,41 +159,62 @@
 </table>  
 
 
+<div align="left">
+  
+### 🍔 I’m planing to learn
 
+- 😋 6.824Lab
+- 😜 System Programing in C
+- 🥺 K8s + gRPC
 
-## 🍔 I’m planing to learn
+</div>
 
-😋 6.824Lab
-
-😜 System Programing in C
+<!-- knock code pictures 敲代码的图片 -->
+<img src="https://github.com/SalvatoreYang/docs/blob/gh-pages/assets/img/hacker_a.gif" width="33%" /><br>
 
 
 ## 📊 Code Statics 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SalvatoreYang&show_icons=true&theme=gruvbox)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalvatoreYang&theme=gruvbox&layout=compact)
-
-
+<img align="" height="145px" src="https://github-readme-stats.vercel.app/api?username=SalvatoreYang&hide_title=true&hide_border=true&show_icons=true&theme=gruvbox" />
+<img align="" height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalvatoreYang&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=gruvbox" />
 
 ## 🎉 Github Profile Trophy
-
 <img src="https://github-profile-trophy.vercel.app/?username=SalvatoreYang&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 
-<!-- Wakatime Graph-->
-<table>
-  <tr>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
-  </tr>
-  <tr>
-    <td colspan="2"><br></td>
-  </tr>
-</table>
 
-<!-- Joke 笑话 -->
-<div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
+## 🙌 My spare time I will...
+```mermaid
+mindmap
+  root((SalvatoreYang))
+    编程
+      Java后端开发
+      Golang后端开发
+      Web前端开发
+      Python爬虫
+      机器学习
+      深度学习
+    摄影
+      扫街
+      妹子
+      美食
+    旅行
+      上海
+      广州
+      苏州
+      杭州
+      西安
+      洛阳
+      佛山
+      汕头
+      潮州
+    阅读
+      人物传记
+      个人成长
+      社会文化
+      计算机技术
+```
 
 </div>
+
 
 
 <!--
