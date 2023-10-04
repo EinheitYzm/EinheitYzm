@@ -3,7 +3,7 @@
 # Hi, I am Salvatore, a student from University of Science and Technology of China.
 
 <!-- knock code pictures 敲代码的图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="549" height="352">
 <!-- profile logo 个人资料徽标 -->
 <div align="center">
   <a href="SalvatoreYang.github.io/docs//"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
@@ -28,6 +28,9 @@
 - 🔍 You can get in touch with me by email at [yzming@ustc.edu](mailto:yzming@ustc.edu)
 
 </div>
+
+---
+
 
 
 <div align="left">
@@ -112,13 +115,15 @@
   <img src="https://img.shields.io/badge/RlSC--V-283272?style=flat-square&logo=riscv&logoColor=%23ffffff" />
 </span>
     
-<table>
-  <tr>
-  <td valign="top" width="33%">
 
-### 📦 My Skill Set 
+---
 
-#### 📚 Languages and Frameworks
+<div align="left">
+
+### 📦 My Skill Set
+<img align="right" alt="GIF" src="https://github.com/SalvatoreYang/docs/blob/gh-pages/assets/img/hacker_a.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!">
+
+**📚 Languages and Frameworks**
 
 <code><img height="20" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C"></code>
 <code><img height="20" src="https://img.icons8.com/color/35/000000/c-plus-plus-logo.png" alt="C++" title="C++"></code>
@@ -134,50 +139,34 @@
 <code><img height="20" src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue" title="Vue"></code>
 <code><img height="20" src="https://img.icons8.com/plasticine/48/000000/react.png" alt="React" title="React"></code>
 
+**🧰 Tools and Environments**
 
-#### 🧰 Tools and Environments
-
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" title="Github"></code>
-  <code><img height="20" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IDEA" title="IDEA"></code>
-  <code><img height="20" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm" title="PyCharm"></code>
-  <code><img height="20" src="https://resources.jetbrains.com/storage/products/goland/img/meta/goland_logo_300x300.png" title="Goland" alt="Goland"></code>
-  <code><img height="20" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" alt="WebStorm" title="WebStorm"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="Docker" title="Docker"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter" title="Jupyter"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" alt="Maven" title="Maven"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/gradle/gradle.png" alt="Gradle" title="Gradle"></code>
-
-  </td>
-
-  <td valign="top" width="33%">
-      <span>
-        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
-      </span>
-  </td>
-</tr>
-</table>  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" title="Github"></code>
+<code><img height="20" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IDEA" title="IDEA"></code>
+<code><img height="20" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm" title="PyCharm"></code>
+<code><img height="20" src="https://resources.jetbrains.com/storage/products/goland/img/meta/goland_logo_300x300.png" title="Goland" alt="Goland"></code>
+<code><img height="20" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" alt="WebStorm" title="WebStorm"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="Docker" title="Docker"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter" title="Jupyter"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" alt="Maven" title="Maven"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/gradle/gradle.png" alt="Gradle" title="Gradle"></code>
 
 
-<div align="left">
-  
-### 🍔 I’m planing to learn
+**🍔 plan to learn**
 
-<img align="right" alt="GIF" src="https://github.com/SalvatoreYang/docs/blob/gh-pages/assets/img/hacker_a.gif?raw=true" width="170" height="100" title="Do what you like, and do it best!"> 
+ - <a href="https://pdos.csail.mit.edu/6.824/schedule.html" target="_blank">6.824Lab</a> 
+ - <a href="https://pdos.csail.mit.edu/6.824/schedule.html" target="_blank">System Programing in C</a> 
+ - <a href="https://pdos.csail.mit.edu/6.824/schedule.html" target="_blank">K8s + gRPC</a> 
 
-- 😋 6.824Lab
-- 😜 System Programing in C
-- 🥺 K8s + gRPC
-
-
-
+</div>
 
 ---
 
-</div>
+
 
 
 <div align="left"> 
