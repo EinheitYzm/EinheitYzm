@@ -2,9 +2,22 @@
 
 # Hi, I am Salvatore, a student from University of Science and Technology of China.
 
-## 🤺 About Me
+<!-- knock code pictures 敲代码的图片 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+<!-- profile logo 个人资料徽标 -->
+<div align="center">
+  <a href="SalvatoreYang.github.io/docs//"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+  <a href="https://space.bilibili.com/25989625"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+  <a href="https://www.zhihu.com/people/Salvatore/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+  <!-- visitor statistics logo 访问量统计徽标 -->
+  <img src="https://komarev.com/ghpvc/?username=SalvatoreYang&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+</div>
+
+---
 
 <div align="left">
+  
+## 🤺 About Me
   
 ### 🤡 Brief Introduction
 
@@ -16,16 +29,6 @@
 
 </div>
 
-  <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
-  <!-- profile logo 个人资料徽标 -->
-  <div align="center">
-    <a href="SalvatoreYang.github.io/docs//"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="https://space.bilibili.com/25989625"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/Salvatore/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
-    <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=SalvatoreYang&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-  </div>
 
 <div align="left">
   
@@ -163,25 +166,40 @@
   
 ### 🍔 I’m planing to learn
 
+<img align="right" alt="GIF" src="https://github.com/SalvatoreYang/docs/blob/gh-pages/assets/img/hacker_a.gif?raw=true" width="170" height="100" title="Do what you like, and do it best!"> 
+
 - 😋 6.824Lab
 - 😜 System Programing in C
 - 🥺 K8s + gRPC
 
+
+
+
+---
+
 </div>
 
-<!-- knock code pictures 敲代码的图片 -->
-<img src="https://github.com/SalvatoreYang/docs/blob/gh-pages/assets/img/hacker_a.gif" width="33%" /><br>
 
+<div align="left"> 
 
-## 📊 Code Statics 
+  ## 📊 Code Statics 
+</div>
 <img align="" height="145px" src="https://github-readme-stats.vercel.app/api?username=SalvatoreYang&hide_title=true&hide_border=true&show_icons=true&theme=gruvbox" />
 <img align="" height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalvatoreYang&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=gruvbox" />
 
-## 🎉 Github Profile Trophy
+
+<div align="left"> 
+
+  ## 🎉 Github Profile Trophy
+</div>
 <img src="https://github-profile-trophy.vercel.app/?username=SalvatoreYang&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 
 
-## 🙌 My spare time I will...
+<div align="left"> 
+
+ ## 🙌 My spare time I will...
+</div>
+
 ```mermaid
 mindmap
   root((SalvatoreYang))
