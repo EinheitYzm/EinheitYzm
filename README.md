@@ -184,44 +184,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=SalvatoreYang&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 
 
-<div align="left"> 
-
- ## 🙌 My spare time I will...
-</div>
-
-```mermaid
-mindmap
-  root((SalvatoreYang))
-    编程
-      Java后端开发
-      Golang后端开发
-      Web前端开发
-      Python爬虫
-      机器学习
-      深度学习
-    摄影
-      扫街
-      妹子
-      美食
-    旅行
-      上海
-      广州
-      苏州
-      杭州
-      西安
-      洛阳
-      佛山
-      汕头
-      潮州
-    阅读
-      人物传记
-      个人成长
-      社会文化
-      计算机技术
-```
-
-</div>
-
 
 
 <!--
